@@ -1,0 +1,14 @@
+# CACHE IS CLEARED
+# 
+# ==> BusOp = READ
+# ==> MESSAGE TO L1: SENDLINE 0000000
+# MESI_STATE = S  	 TAG = 000  LRU = 0          SET =           0     WAY =           7 
+# ==> MESSAGE TO L1: INVALIDATE xxxxxxx
+# 
+# END OF TRACE FILE, THE FOLLOWING ARE THE CHACHE STATSITICS:
+# 
+# ==>  CACHE_READS = 1 
+# ==>  CACHE_WRITES=0 
+# ==>  CACHE_HITS=0 
+# ==>  CACHE_MISSES=1 
+# ==>  CACHE_HIT_RATIO=0.000000

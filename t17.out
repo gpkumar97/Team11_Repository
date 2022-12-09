@@ -1,0 +1,42 @@
+ CACHE IS CLEARED
+# 
+# ==> BusOp = READ
+# ==> MESSAGE TO L1: SENDLINE 0000000
+# 
+# ==> BusOp = READ
+# ==> MESSAGE TO L1: SENDLINE 0008000
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = READ
+# ==> MESSAGE TO L1: SENDLINE 0018000
+# 
+# ==> BusOp = READ
+# ==> MESSAGE TO L1: SENDLINE 0020000
+# 
+# ==> BusOp = RWIM
+# MESI_STATE = S  	 TAG = 001  LRU = 0          SET =           0     WAY =           0 
+# MESI_STATE = M  	 TAG = 005  LRU = 0          SET =           0     WAY =           1 
+# MESI_STATE = E  	 TAG = 003  LRU = 0          SET =           0     WAY =           2 
+# MESI_STATE = M  	 TAG = 002  LRU = 0          SET =           0     WAY =           5 
+# MESI_STATE = S  	 TAG = 004  LRU = 0          SET =           0     WAY =           6 
+# MESI_STATE = E  	 TAG = 000  LRU = 0          SET =           0     WAY =           7 
+# ==> MESSAGE TO L1: SENDLINE 0000000
+# ==> MESSAGE TO L1: SENDLINE 0008000
+# ==> MESSAGE TO L1: SENDLINE 0010000
+# 
+# ==> BusOp = INVALIDATE
+# MESI_STATE = S  	 TAG = 001  LRU = 0          SET =           0     WAY =           0 
+# MESI_STATE = M  	 TAG = 005  LRU = 0          SET =           0     WAY =           1 
+# MESI_STATE = M  	 TAG = 003  LRU = 0          SET =           0     WAY =           2 
+# MESI_STATE = M  	 TAG = 002  LRU = 0          SET =           0     WAY =           5 
+# MESI_STATE = M  	 TAG = 004  LRU = 0          SET =           0     WAY =           6 
+# MESI_STATE = E  	 TAG = 000  LRU = 0          SET =           0     WAY =           7 
+# 
+# END OF TRACE FILE, THE FOLLOWING ARE THE CHACHE STATSITICS:
+# 
+# ==>  CACHE_READS = 7 
+# ==>  CACHE_WRITES=5 
+# ==>  CACHE_HITS=6 
+# ==>  CACHE_MISSES=6 
+# ==>  CACHE_HIT_RATIO=50.000000

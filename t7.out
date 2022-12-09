@@ -1,0 +1,46 @@
+# CACHE IS CLEARED
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# 
+# ==> BusOp = RWIM
+# MESI_STATE = M  	 TAG = 001  LRU = 1          SET =           0     WAY =           0 
+# MESI_STATE = M  	 TAG = 005  LRU = 1          SET =           0     WAY =           1 
+# MESI_STATE = M  	 TAG = 003  LRU = 1          SET =           0     WAY =           2 
+# MESI_STATE = M  	 TAG = 007  LRU = 1          SET =           0     WAY =           3 
+# MESI_STATE = M  	 TAG = 006  LRU = 1          SET =           0     WAY =           4 
+# MESI_STATE = M  	 TAG = 002  LRU = 1          SET =           0     WAY =           5 
+# MESI_STATE = M  	 TAG = 004  LRU = 1          SET =           0     WAY =           6 
+# MESI_STATE = M  	 TAG = 000  LRU = 1          SET =           0     WAY =           7 
+# 
+# ==> BusOp = WRITE
+# ==> MESSAGE TO L1: EVICTLINE 0000000
+# 
+# ==> BusOp = RWIM
+# MESI_STATE = M  	 TAG = 001  LRU = 0          SET =           0     WAY =           0 
+# MESI_STATE = M  	 TAG = 005  LRU = 0          SET =           0     WAY =           1 
+# MESI_STATE = M  	 TAG = 003  LRU = 0          SET =           0     WAY =           2 
+# MESI_STATE = M  	 TAG = 008  LRU = 0          SET =           0     WAY =           3 
+# MESI_STATE = M  	 TAG = 006  LRU = 0          SET =           0     WAY =           4 
+# MESI_STATE = M  	 TAG = 002  LRU = 0          SET =           0     WAY =           5 
+# MESI_STATE = M  	 TAG = 004  LRU = 0          SET =           0     WAY =           6 
+# MESI_STATE = M  	 TAG = 000  LRU = 0          SET =           0     WAY =           7 
+# 
+# END OF TRACE FILE, THE FOLLOWING ARE THE CHACHE STATSITICS:
+# 
+# ==>  CACHE_READS = 0 
+# ==>  CACHE_WRITES=10 
+# ==>  CACHE_HITS=1 
+# ==>  CACHE_MISSES=9 
+# ==>  CACHE_HIT_RATIO=10.000000

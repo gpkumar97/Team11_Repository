@@ -1,0 +1,17 @@
+# CACHE IS CLEARED
+# 
+# ==> BusOp = READ
+# ==> MESSAGE TO L1: SENDLINE 0000000
+# MESI_STATE = M  	 TAG = 000  LRU = 0          SET =           0     WAY =           7 
+# 
+# ==> BusOp = WRITE
+# ==> MESSAGE TO L1: GETLINE  0000000
+# MESI_STATE = S  	 TAG = 000  LRU = 0          SET =           0     WAY =           7 
+# 
+# END OF TRACE FILE, THE FOLLOWING ARE THE CHACHE STATSITICS:
+# 
+# ==>  CACHE_READS = 1 
+# ==>  CACHE_WRITES=1 
+# ==>  CACHE_HITS=1 
+# ==>  CACHE_MISSES=1 
+# ==>  CACHE_HIT_RATIO=50.000000
